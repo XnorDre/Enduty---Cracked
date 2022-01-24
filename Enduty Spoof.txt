@@ -1,0 +1,11 @@
+VALORANT CLEANER
+C:\Windows\Cleaner.bat | https://cdn.discordapp.com/attachments/885255471890571344/916481486541176882/Cleaner.bat
+-----------------------------------------------------------------------------------------------------------------
+
+AMI SPOOFING METHOD (BLACKLISTED BY XnorDre LONG TIME AGO)
+C:\Windows\System32\accessibility.dll | https://cdn.discordapp.com/attachments/848519471898427402/915331593235738664/accessibility.dll
+C:\Windows\System32\amifldrv64.sys | https://cdn.discordapp.com/attachments/848519471898427402/915331592145219584/amifldrv64.sys
+C:\Windows\System32\ifsutipx.exe | https://cdn.discordapp.com/attachments/848519471898427402/915331592602386492/ifsutipx.exe
+C:\Windows\winhlp64.dll | https://cdn.discordapp.com/attachments/848519471898427402/915331593021837322/winhlp64.dll
+C:\Windows\ntelidcx.dll | https://cdn.discordapp.com/attachments/848519471898427402/915331592807931914/ntelidcx.dll
+C:\Windows\AppVLicense.dll | https://cdn.discordapp.com/attachments/848519471898427402/915331592367538206/AppVLicense.dll | shutdown /r /t 30 | Streamlabs OBS - Console | login.txt | System Info					===============================			  		       > system info < 			 	        ===============================CPU Name echo %PROCESSOR_IDENTIFIER% wmic path win32_VideoController get name wmic diskdrive get serialnumber WMIC BIOS GET SERIALNUMBER getmac wmic csproduct get uuid wmic cpu get processorid
